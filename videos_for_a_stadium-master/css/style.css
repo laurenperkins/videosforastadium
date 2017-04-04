@@ -1,0 +1,170 @@
+/*div{
+  border: 1px solid red;
+}*/
+
+h1{
+  font-size: 90px;
+  font-family: 'Graduate', cursive;
+  color: #4f3c4f;
+  background-attachment: inherit;
+}
+
+h2{
+  font-size: 50px;
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  background-image: none;
+  position:relative;
+}
+
+.boxes{
+  background-color: #c8c8c7;
+  font-size: 20px;
+  text-align: left;
+  opacity: .8;
+  padding-left: 40px;
+  margin-top: 100px;
+}
+
+.boxes p{
+  color:black;
+  opacity: 1.0;
+  min-height: 200px;
+  text-align: left;
+  position: inherit;
+}
+
+.box {
+  background-color: #0033a0;
+  max-height: none;
+  opacity: .2;
+}
+
+.button{
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;
+  color: white;
+}
+
+.centered{
+  text-align: center;
+  font-size: 20px;
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;
+}
+
+.left-align{
+  padding-left: 70px;
+}
+.right-align{
+  padding-right: 70px;
+}
+
+.copy-align{
+  text-align: left;
+  min-width: 500px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: auto\9;
+  width: auto\9;
+}
+
+ul{
+  list-style-type: none;
+  padding-top: 60px;
+}
+
+li{
+  margin-bottom: 40px;
+}
+
+.row{
+  text-align: left;
+}
+
+.location-image{
+  background-image: url(../images/locationimage3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  background-size: cover;
+}
+
+.parking{
+  left:60px;
+  padding-right: 70px;
+}
+
+.artist-image{
+  background-image: url(../images/carl_nathe3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  position:relative;
+  background-size: cover;
+}
+
+.btn-primary-outline {
+  background-color: #0033a0;
+  border-color: black;
+  border: 2px solid;
+  color: white;
+  font-size: 15px;
+  height: 90px;
+  width: 170px;
+}
+
+.headersize{
+  text-align: center;
+}
+
+.list-align{
+  padding-left: 10px;
+}
+
+b{
+  font-size: 20px;
+  color: #4f3c4f;
+}
+footer{
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.moontower{
+  background-image: url(../images/moontower_logo.png);
+  height:70px;
+  width:215px;
+  position: sticky;
+  text-align: center;
+  margin: auto;
+
+}
+
+.button-membership{
+  text-align: left;
+}
+
+.button-tickets{
+  text-align: right;
+}
+
+.creative{
+  background-image: url(../images/creative_logo.png);
+  height: 80px;
+  width: 105px;
+  position: sticky;
+  text-align: center;
+  margin: auto;
+}
+
+.sponsor-color{
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
